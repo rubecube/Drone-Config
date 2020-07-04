@@ -1,0 +1,5 @@
+Notes 
+MAMBA F405MK2
+- works with the FURYF4 (DIAT-FURYF4.config)
+-- Correct motor and senores
+. look into it 
