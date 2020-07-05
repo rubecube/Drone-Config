@@ -1,5 +1,6 @@
 Notes 
 MAMBA F405MK2
 - works with the FURYF4 (DIAT-FURYF4.config)
+- Website says to use (Firmware Target ： FURYF4OSD （Legacy）)
 -- Correct motor and senores
 . look into it 
